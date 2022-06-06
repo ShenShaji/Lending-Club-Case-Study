@@ -35,12 +35,11 @@
 - Pandas - version 1.3.5
 - Matplotlib - version 3.2.2
 - Seaborn - version 0.11.2
-- Google COLAB
+- Google Colab
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by the lending club institution (https://www.lendingclub.com/)
 - This project was based on the Exploratory Data Analysis module in ML EPGP program in Upgrad
 
